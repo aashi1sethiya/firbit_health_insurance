@@ -1,5 +1,5 @@
 # ⚕️**Personalised Health Insurance Creator Using Fitbit Data**
-##### **Help Insurance companies to create the best-fit Insurance coverage and premium options based on realtime health data and incentivise clients to work on their health parameters to reduce their insurance deductibles**
+**Help Insurance companies to create the best-fit Insurance coverage and premium options based on realtime health data and incentivise clients to work on their health parameters to reduce their insurance deductibles**
 
 Website: https://sberntso.wixsite.com/fitbit-group-project
 
@@ -12,7 +12,7 @@ Website: https://sberntso.wixsite.com/fitbit-group-project
 - By leveraging data obtained from Fitbit's personal monitoring device, we aim to gain deep insights into individuals' lifestyles, fitness levels, and health metrics
 - Utilize this data to improve coverage, reduce costs, and promote proactive health management and well-being among policyholders
 
-  ## **Features**
+  ## 🚀**Features**
 - risk profiling
 - dynamic premium calculation
 - Fitbit continuous monitoring
